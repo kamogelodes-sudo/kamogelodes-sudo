@@ -1,5 +1,26 @@
-## Hi there 👋
+# 💻 Welcome to My GitHub!
+I'm a **Mechatronic Engineering graduate** and **Tech Enthusiast** passionate about problem-solving, automation, and the intelligent use of data.
 
+## 🎓 Qualification
+**Master of Engineering (MEng) in Mechanical Engineering** Cum Laude
+  - Thesis topic: *Hyperelastic and Viscoelastic Characterisation and Modelling of Silicone Rubber*
+  - The thesis focused on material characterisation, non-linear finite element analysis and optimisation
+    
+**Bachelor of Engineering (BEng) in Mechatronics**
+  - Core focus: Data analytics, Control Systems, Systems engineering, Numerical methods
+  - Final Year Project: *Development of a Hunting Bow Testing Device*
+## 🔧 Technical Stack
+
+| Area            | Tools & Skills                               |
+|-----------------|----------------------------------------------|
+| Programming     | Python, C, MATLAB                            |
+| Design & CAD    | Autodesk Inventor, SolidWorks                |
+| Simulation      | MSC Marc, MSC Adams, Simulink,               |
+| Hardware        | Arduino, Raspberry Pi, STM32,                |
+| Data & Analysis | Excel, Python (Pandas, Matplotlib, NumPy)    |
+| Documentation   | LaTeX, Git                                   |
+
+> _“Technology is best when it brings people together and enables smarter decisions.”_
 <!--
 **kamogelodes-sudo/kamogelodes-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
