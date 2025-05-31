@@ -4,7 +4,7 @@ I'm a **Mechatronic Engineering graduate** and **Tech Enthusiast** passionate ab
 ## 🎓 Qualification
 **Master of Engineering (MEng) in Mechanical Engineering** Cum Laude
   - Thesis topic: *Hyperelastic and Viscoelastic Characterisation and Modelling of Silicone Rubber*
-  - The thesis focused on design, writing optimisation code in python, material characterisation and non-linear finite element analysis
+  - The thesis focused on design, writing optimisation code in Python, material characterisation and non-linear finite element analysis
 
 **Bachelor of Engineering (BEng) in Mechatronics**
   - Core focus: Data analytics, Control Systems, Systems engineering, Numerical methods
