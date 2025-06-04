@@ -1,7 +1,7 @@
 # 💻 Welcome to My GitHub!
 I'm a **Mechatronic Engineering graduate** and **Tech Enthusiast** passionate about problem-solving, automation, and the intelligent use of data.
 
-## 🎓 Qualification
+## 🎓 Qualifications
 **Master of Engineering (MEng) in Mechanical Engineering** Cum Laude
   - Thesis topic: *Hyperelastic and Viscoelastic Characterisation and Modelling of Silicone Rubber*
   - The thesis focused on design, writing optimisation code in Python, material characterisation and non-linear finite element analysis
